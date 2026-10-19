@@ -6,7 +6,7 @@ It uses the API's batch IDs to make the upload **all-or-nothing**: every row is
 created as *inactive* under one batch, and the batch is activated in a single call
 only once every row succeeded.
 
-**Live:** `<your-render-url>` · interactive docs at `<your-render-url>/docs`
+**Live:** `https://hospital-bulk-wb0x.onrender.com/` · interactive docs at `https://hospital-bulk-wb0x.onrender.com/docs`
 
 ## Endpoints
 
